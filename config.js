@@ -11,9 +11,9 @@ global.owner = [
   ['923427630911', 'EXCEL', true], 
   ['923024474610', '⚡Excel', true],
 
-] //Number of owners 923024474610
+] //923024474610
 
-//global.pairingNumber = "" //put your bot number here mr wahab
+//global.pairingNumber = "" //923024474610
 
 global.mods = ['2341', '2348021779696', '2347045035241','233533763772'] 
 global.prems = ['2347045035241','233208179431','233533763772']
